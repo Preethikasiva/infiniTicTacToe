@@ -46,7 +46,7 @@
   
   1. Open `index.html` in your browser
   
-  Or play online at: [Demo Link](http://infinitictactoe.com/)
+  Or play online at: [Demo Link](https://preethikasiva.github.io/infiniTicTacToe/)
   
   ## Technologies Used
   
